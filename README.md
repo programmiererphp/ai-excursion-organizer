@@ -41,3 +41,11 @@ The Work prompts are ready to run. **Facebook group creation, login and live mes
 - [ChatGPT Cloud Browser](https://help.openai.com/en/articles/20001280-using-cloud-browser-in-chatgpt)
 - [Scheduled Tasks](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
 - [Facebook: create a group event](https://www.facebook.com/help/185716894811068/)
+
+## Work allowance / cost optimization
+
+- [Lean Facebook-only micro-run prompt](prompts/work-04-lean-facebook-run.md)
+- [Usage tracking guide](ops/usage-tracking.md)
+- [Manual usage ledger CSV](ops/work-usage-ledger.csv)
+
+**Note:** Plus Work usage is not automatically reported to GitHub. Log remaining allowance before/after each task, separately for 5-hour and weekly windows. Do not consume Work Cloud Browser actions just to manage project documentation.
