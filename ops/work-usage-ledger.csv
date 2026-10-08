@@ -1,0 +1,2 @@
+date_local,run_id,model,task,remaining_5h_before_pct,remaining_5h_after_pct,remaining_week_before_pct,remaining_week_after_pct,browser_ui_actions,threads_or_items_completed,github_calls,verified_result,notes
+2026-10-08,FB-PILOT-HISTORICAL,NA,Facebook login and Page capability pilot incl Page creation,NA,NA,NA,NA,NA,NA,NA,partly,Historical event only; no authoritative token or allowance breakdown available
