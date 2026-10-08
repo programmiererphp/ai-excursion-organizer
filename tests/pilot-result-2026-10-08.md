@@ -71,3 +71,6 @@ Simple rules:
 4. The user may act as the willing tester by initiating a TEST Messenger message to the selected Page. Verify the incoming message, send one authorized test reply, reopen it, and obtain receipt confirmation.
 5. In a later run, retrieve both artifacts without duplication.
 6. Only after pilot completion and separate approval, create the proposed public community. Then prepare one short local excursion with one confirmed human guide; publish an event only after details and permission are settled.
+
+## Continuation — 2026-10-08, after setup approval
+The user selected a new dedicated excursion Page, agreed to act as the Messenger tester, and approved the proposed setup. The browser session remained authenticated in this later turn. Page creation was opened and Public Page selected. Before the details form, Facebook displayed a notice that clicking Get started accepts Facebook Page Terms. The action was not submitted: browser policy requires explicit confirmation at this contractual acceptance step. Waiting for that specific confirmation. No Page, group, post, invitation, message or recurring task has been created in this continuation. The confirmation screenshot is kept outside public GitHub; no personal browser data has been committed.
